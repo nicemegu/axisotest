@@ -1,24 +1,19 @@
 # axiostest
 
-## Project setup
+## First
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Second
 ```
 yarn serve
 ```
+### third
+```
+node server.js
+```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
